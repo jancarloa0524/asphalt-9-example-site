@@ -1,0 +1,11 @@
+.clan {
+    padding: 50px;
+}
+
+#rep {
+    padding: 10px;
+    display: inline-block;
+    background-color: red;
+    border-radius: 35px;
+    color: white;
+}
